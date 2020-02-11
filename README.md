@@ -1,5 +1,4 @@
-venv # Pong Game the configuration file inside.
-
+ # Pong Game 
 
 Its a replica of old pong game, inspired from nintendo video game.
 Built using python.
